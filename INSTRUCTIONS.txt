@@ -1,0 +1,27 @@
+Requirements:
+>SwayWM [Read the Arch Wiki guide to install it properly]
+>Waybar
+>Wofi
+>Alacritty Terminal
+>ttf-hack
+>Fastfetch [Optional]
+
+Instructions:
+Extract the dotFiles.tar.xz, copy all the folders and paste to /home/{username}/.config
+Restart sway with mod+shift+c and it should work!
+
+Rice extra packages [Optional]
+>cava
+>cmatrix-git [AUR]
+>htop
+>tty-clock [AUR]
+>wayshot [AUR] #Screenshot Tool
+
+Wallpaper: https://wallpaperaccess.com/rarity
+>Create a folder named "Wallpapers" in /home and place the wallpaper there,
+you must rename the wallpaper to "default.png"
+>You can also change the directory and file name of the wallpaper in the sway config file (recommended)
+
+Credits:
+>Fastfetch logo by u/KoalaAlternative1038
+>Fastfetch layout preset by LierB
